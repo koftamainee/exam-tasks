@@ -1,0 +1,11 @@
+IN x,10; iN Y , 16;   
+
+NOT X;
+OUT x, 16; OUT Y,  16;
+
+OR X, 10;
+OUT x, 16; OUT Y,  16;
+XOR X,Y;
+OUT x, 16; OUT Y,  16;
+AND X,Y;
+OUT x, 16; OUT Y,  16;
